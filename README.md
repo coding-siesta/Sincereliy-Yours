@@ -1,2 +1,2 @@
 # Sincereliy-Yours
-Transactional application for flowers, created using Flutter and Dart, and created dataase using Firebase.
+Transactional application for flowers, created using Flutter and Dart, with its own database using Firebase
